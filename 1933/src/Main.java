@@ -5,6 +5,8 @@ public class Main {
 			System.out.println("설마 주석은안올라가니?");
 			System.out.println("설마 주석은안올라가니?");
 			System.out.println("설마 주석은안올라가니?");
+			System.out.println("설마 주석은안올라가니?");
+			System.out.println("설마 주석은안올라가니?");
 			/*
 			 *   1 : 1
 			 *   2 : 1 2
